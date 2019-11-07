@@ -41,10 +41,10 @@ Now you can alter your previous two scripts to use this new block.
 
 ```blocks3
 when [1 v] key pressed
-set_move (1) ::myblocks
+set_move (1) ::custom
 
 when [2 v] key pressed
-set_move(2) ::myblocks
+set_move(2) ::custom
 ```
 --- /task ---
 
@@ -53,12 +53,12 @@ To finish off this section, add in more scripts that respond key presses 3 to 9 
 
 ```blocks3
 when [3 v] key pressed
-set_move (3) ::myblocks
+set_move (3) ::custom
 
 when [4 v] key pressed
-set_move (4) ::myblocks
+set_move (4) ::custom
 
 when [0 v] key pressed
-set_move (10) ::myblocks
+set_move (10) ::custom
 ```
 --- /task ---
