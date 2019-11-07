@@ -53,9 +53,12 @@ To finish off this section, add in more scripts that respond key presses 3 to 9 
 
 ```blocks
 when [3 v] key pressed
-set_move (3)
+set_move (3) ::myblocks
+
+when [4 v] key pressed
+set_move (4) ::myblocks
 
 when [0 v] key pressed
-set_move (4)
+set_move (10) ::myblocks
 ```
 --- /task ---
