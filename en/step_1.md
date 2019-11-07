@@ -5,11 +5,9 @@ Add project description here. What will learners be making?
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Click the green flag then type numbers to store dance moves. Press space to start the sprite dancing.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+<iframe src="https://scratch.mit.edu/projects/342753697/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 --- /no-print ---
 
 --- print-only ---
@@ -17,32 +15,33 @@ Add instructions for using the embedded content here.
 --- /print-only ---
 
 --- collapse ---
+
 ---
 title: What you will need
 ---
+
 ### Hardware
 
-+ Describe hardware here
++ A computer capable of running Scratch
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+The starter project can be found [here](http://rpf.io/p/en/dance-go){:target="_blank"}.
 
 --- /collapse ---
 
 --- collapse ---
+
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ How to add items to a list
++ How to iterate over a list
 
 --- /collapse ---
 
@@ -51,8 +50,12 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- no-print ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/dance/print){:target="_blank"}.
+
+--- /no-print ---
+
+You can find the [completed project here](http://rpf.io/p/en/dance-get){:target="_blank"}.
 
 --- /collapse ---

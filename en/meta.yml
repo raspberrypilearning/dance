@@ -1,4 +1,4 @@
-title: dance
+#title: dance
 hero_image: images/banner.png
 description: dance description
 version: 4
@@ -7,5 +7,5 @@ copyedit: false
 last_tested: "2019-11-07"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Make a sprite dance
+  - title: Add some beats
