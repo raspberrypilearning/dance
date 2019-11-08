@@ -15,5 +15,5 @@ steps:
   - title: Playing back the moves
   - title: Finishing off
   - title: "Challenge: Add some effects"
-  challenge: true
-  - title: What next?
+    challenge: true
+  - title: "What next?"
