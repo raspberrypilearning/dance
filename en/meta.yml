@@ -12,3 +12,8 @@ steps:
   - title: More moves
   - title: Improving the look
   - title: Storing the moves
+  - title: Playing back the moves
+  - title: Finishing off
+  - title: "Challenge: Add some effects"
+  challenge: true
+  - title: What next?
