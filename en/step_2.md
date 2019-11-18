@@ -21,7 +21,7 @@ Search for a sprite by typing in `dance` into the search box.
 
 This resource will use the `Jouvi Dance` sprite
 
-![jouvi_dance](images/jouvi_dance)
+![jouvi_dance](images/jouvi_dance.png)
 --- /task ---
 
 --- task ---
