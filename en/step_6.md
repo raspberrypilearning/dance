@@ -15,8 +15,8 @@ Now you are going to alter your custom block, to add the `move`{:class="block3cu
 
 ```blocks3
 define set_move (move)
-switch costume to (jo stance v)
-play drum [(1) Snare Drum v] for (0.25) beats
+switch costume to (move)
+play drum (move) for (0.25) beats
 add (move) to [moves v]
 ```
 --- /task ---

@@ -13,9 +13,10 @@ You might find a good one in the `music` section.
 --- /task ---
 
 --- task ---
-Now use a new script to set your sprites size, and then position it on the backdrop. You might have to experiment with different values for the percentage.
+Now use a new script to set your sprites size, and then position it on the backdrop. You might have to experiment with different values for the percentage. Make sure you're adding this script to your dancer sprite, and not the backdrop.
 
 ```blocks3
 when flag clicked
 set size to (50) %
+```
 --- /task ---

@@ -1,11 +1,9 @@
 ## Introduction
 
-Add project description here. What will learners be making?
-
 ### What you will make
 
 --- no-print ---
-Click the green flag then type numbers to store dance moves. Press space to start the sprite dancing.
+Click the green flag then type the numbers 1-9 to store dance moves. Press space to start the sprite dancing.
 
 <iframe src="https://scratch.mit.edu/projects/342753697/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 --- /no-print ---

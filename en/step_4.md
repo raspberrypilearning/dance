@@ -46,6 +46,8 @@ set_move (1) ::custom
 when [2 v] key pressed
 set_move(2) ::custom
 ```
+
+Now the number typed in will be the costume shown and the drum beat played.
 --- /task ---
 
 --- task ---
