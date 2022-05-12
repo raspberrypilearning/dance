@@ -1,0 +1,19 @@
+#title: dance
+hero_image: images/banner.png
+description: dance description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2019-11-07"
+steps:
+  - title: Introduction
+  - title: Make a sprite dance
+  - title: Add some beats
+  - title: More moves
+  - title: Improving the look
+  - title: Storing the moves
+  - title: Playing back the moves
+  - title: Finishing off
+  - title: "Challenge: Add some effects"
+    challenge: true
+  - title: "What next?"
